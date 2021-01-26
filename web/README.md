@@ -1,7 +1,7 @@
 # JS Expert Week 2.0
 
-- Acesse o [home](./pages/home/index.html) para acessar a home page
-- Acesse o [room](./page/room/index.html) uma room específica
+- Access [home](./pages/home/index.html) to see the home page
+- Access [room](./page/room/index.html) of a specific room. The param '?room=ROOM_ID' is required.
 
 ## Home Page
 
@@ -13,6 +13,6 @@
 
 ### Créditos
 
-- Layout da home foi baseada no codepen do [Nelson Adonis Hernandez
+- The home page layout was based on the codepen of [Nelson Adonis Hernandez
 ](https://codepen.io/nelsonher019/pen/eYZBqOm)
-- Layout da room foi adaptado a partir do repo do canal [CleverProgrammers](https://github.com/CleverProgrammers/nodejs-zoom-clone/blob/master/views/room.ejs)
+-  The room page layout was adapted from the repository of the channel [CleverProgrammers](https://github.com/CleverProgrammers/nodejs-zoom-clone/blob/master/views/room.ejs)
