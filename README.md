@@ -1,6 +1,6 @@
 # JS Expert Week 2.0
 
-Project built during the JS Expert Week Second Edition of Erick Wendel.
+The project was built during the JS Expert Week Second Edition of Erick Wendel.
 
 
 ## How to run
