@@ -12,10 +12,20 @@ Run the following commands:
 ```shell
 cd backend
 npm install
-npm start
+npm run dev
 ```
 
 Run the following commands:
+
+### Peer Service
+
+```shell
+cd peer-service
+npm install
+npm run dev
+```
+
+Then open the browser on http://localhost:8080
 
 ### Web
 
