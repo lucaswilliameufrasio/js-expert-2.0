@@ -25,8 +25,6 @@ npm install
 npm run dev
 ```
 
-Then open the browser on http://localhost:8080
-
 ### Web
 
 ```shell
