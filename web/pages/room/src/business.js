@@ -45,7 +45,7 @@ class Business {
     if (this.recordingEnabled) {
       recorderInstance.startRecording()
     }
-    const isCurrentId = false
+    const isCurrentId = userId === this.currentPeer.id
     this.view.renderVideo({
       userId,
       stream,
